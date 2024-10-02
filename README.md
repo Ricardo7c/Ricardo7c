@@ -1,5 +1,5 @@
 ## Olá 👋 Aqui estão algumas coisas sobre mim...
-
+# Atualmente, estou aprendendo programação e utilizando este perfil para acompanhar meu progresso enquanto me familiarizo com o GitHub.
 <div>
   <a href="https://github.com/Ricardo7c">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo7c&show_icons=true&theme=transparent&custom_title=Meu%20status&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&rank_icon=percentile"/>
