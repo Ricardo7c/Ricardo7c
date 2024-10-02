@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋 Aqui estão algumas coisas sobre min...
 
 <!--
 **Ricardo7c/Ricardo7c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
