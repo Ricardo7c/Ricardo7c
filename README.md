@@ -7,8 +7,7 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo7c&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&custom_title=Linguagens%20mais%20usadas&hide_border=true&hide_progress=false"/>
 
-
-<img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo7c&theme=github-compact&height=300&hide_border=true&bg_color=0D1117&custom_title=Meu%20grafico%20de%20atividade&title_color=ffffff&color=ffffff&point=3572A5&line=3572A5&grid=true"/>
+<img height="360em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo7c&theme=github-compact&height=360&hide_border=true&bg_color=0D1117&custom_title=Meu%20grafico%20de%20atividade&title_color=ffffff&color=ffffff&point=3572A5&line=3572A5&grid=true"/>
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ricardo7c&theme=github-compact&height=300&hide_border=true&bg_color=0D1117&custom_title=Meu%20grafico%20de%20atividade&title_color=ffffff&color=ffffff&point=3572A5&line=3572A5&grid=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
