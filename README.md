@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img height="360em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo7c&theme=github-compact&height=500&hide_border=true&bg_color=0D1117&custom_title=Meu%20grafico%20de%20atividade&title_color=ffffff&color=ffffff&point=3572A5&line=3572A5&grid=true"/>
+<img height="360em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ricardo7c&theme=github-compact&height=500&hide_border=true&bg_color=0D1117&custom_title=Meu%20grafico%20de%20atividades&title_color=ffffff&color=ffffff&point=3572A5&line=3572A5&grid=true"/>
 </a>
 
 
