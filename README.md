@@ -1,5 +1,5 @@
 ## Olá 👋 Aqui estão algumas coisas sobre mim...
-#### Atualmente, estou estudando e utilizando este perfil para registrar meu progresso enquanto me familiarizo com o GitHub.
+#### Atualmente, estou estudando e utilizando este perfil para registrar meu progresso enquanto me familiarizo com o GitHub e gero repositorios que podem ser uteis para outros iniciantes como eu.
 <div>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
