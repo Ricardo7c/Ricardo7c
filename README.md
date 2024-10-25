@@ -3,9 +3,9 @@
 <div>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ricardo7c&show_icons=true&theme=transparent&custom_title=Meu%20status&hide_border=true&rank_icon=default"/>
+ <!-- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ricardo7c&show_icons=true&theme=transparent&custom_title=Meu%20status&hide_border=true&rank_icon=default"/> -->
   
- <!-- <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo7c&layout=compact&theme=transparent&custom_title=Linguagens%20mais%20usadas&hide_border=true&hide_progress=false"/> -->
+ <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo7c&layout=compact&theme=transparent&custom_title=Linguagens%20mais%20usadas&hide_border=true&hide_progress=false"/>
 </a>
 
 
