@@ -7,7 +7,6 @@ Atualmente, estou estudando programação e utilizando este perfil para registra
 <p align="left">
 <h4>Linguagens:</h4> 
      
-
 ![image](https://img.shields.io/badge/Rust-00000F?style=for-the-badge&logo=Rust&logoColor=white)
 ![image](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=white)
 ![image](https://img.shields.io/badge/PowerShell-00000F?style=for-the-badge&logo=PowerShell&logoColor=white)
