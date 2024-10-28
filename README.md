@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Ricardo7c/Ricardo7c/blob/f70900b4c2c8dfc00a0dbe15686dd541361a90e1/Art.png" alt="ilustraÃ§Ã£o de um computador" min-width="200px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/Ricardo7c/Ricardo7c/blob/6ad7566cb40b5aa08449fc5b80799ff22ab43c4f/art.png" alt="ilustraÃ§Ã£o de um computador" min-width="200px" max-width="400px" width="400px" align="right">
 <p align="left">
 <h2>Algumas coisas sobre mim...</h2>
 Atualmente, estou estudando programação e utilizando este perfil para registrar meu progresso enquanto me familiarizo com o GitHub e gero repositorios que podem ser uteis para outros iniciantes.
