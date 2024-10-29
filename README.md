@@ -1,7 +1,7 @@
 <h2>Algumas coisas sobre mim...</h2>
 
 <div>
-<img src="https://github.com/Ricardo7c/Ricardo7c/blob/6ad7566cb40b5aa08449fc5b80799ff22ab43c4f/art.png" alt="ilustraÃ§Ã£o de um computador" min-width="50px" max-width="300px" width="200px" align="right">
+<img src="https://github.com/Ricardo7c/Ricardo7c/blob/6ad7566cb40b5aa08449fc5b80799ff22ab43c4f/art.png" alt="ilustraÃ§Ã£o de um computador" min-width="40px" max-width="300px" width="200px" align="right">
 <p align="left">
 <!-- <h4>Linguagens:</h4> -->
 
