@@ -6,7 +6,6 @@
 
 ![image](https://img.shields.io/badge/Rust-00000F?style=for-the-badge&logo=Rust&logoColor=white)
 ![image](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=white)
-![image](https://img.shields.io/badge/Dart-00000F?style=for-the-badge&logo=Dart&logoColor=white)
 ![image](https://img.shields.io/badge/javascript-00000F?style=for-the-badge&logo=Javascript&logoColor=white)
 ![image](https://img.shields.io/badge/html-00000F?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/css-00000F?style=for-the-badge&logo=css&logoColor=white)
