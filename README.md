@@ -10,7 +10,7 @@
 ![image](https://img.shields.io/badge/javascript-00000F?style=for-the-badge&logo=Javascript&logoColor=white)
 ![image](https://img.shields.io/badge/html-00000F?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/css-00000F?style=for-the-badge&logo=css&logoColor=white)
-![image](https://img.shields.io/badge/PowerShell-00000F?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+<!-- ![image](https://img.shields.io/badge/PowerShell-00000F?style=for-the-badge&logo=gnome-terminal&logoColor=white) -->
 </p>
 </div>
 
